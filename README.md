@@ -5,4 +5,6 @@ An open-source python project. 🐍
 - ***💥Brute Force Tester.***
 - ***❓How Strong Is My Password?***
 - ***❔How Do I Protect My Passwords?***
-- ***🔐Password Generator.*** 
+- ***🔐Password Generator.***
+  
+*More information about what they do, inside the code. (manual)*
