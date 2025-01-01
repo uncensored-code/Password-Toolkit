@@ -1,4 +1,5 @@
 # ⭐***Password Toolkit***⭐
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 An open-source python project. 🐍
 
 **💫Features:**
